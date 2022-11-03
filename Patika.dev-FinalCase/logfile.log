@@ -1,0 +1,28 @@
+2022-11-03 21:38:20,643 INFO  [AbstractClass] --------------------------------------------------------- 
+2022-11-03 21:38:20,643 INFO  [AbstractClass] Visited hepsiburada.com website. 
+2022-11-03 21:38:20,761 INFO  [AbstractClass] Cookies accepted. 
+2022-11-03 21:38:22,269 INFO  [AbstractClass] Clicked on the login button. 
+2022-11-03 21:38:25,857 INFO  [AbstractClass] E-mail address has been entered. 
+2022-11-03 21:38:27,689 INFO  [AbstractClass] Password has been entered and clicked the login button. 
+2022-11-03 21:38:32,741 INFO  [AbstractClass] Confirmed that the login has been done. 
+2022-11-03 21:38:33,105 INFO  [AbstractClass] The product was searched. 
+2022-11-03 21:38:37,253 INFO  [AbstractClass] Switched to new tab. 
+2022-11-03 21:38:37,253 INFO  [AbstractClass] The first product was selected. 
+2022-11-03 21:38:43,413 INFO  [AbstractClass] The product has been added to the cart from the first seller. 
+2022-11-03 21:38:45,519 INFO  [AbstractClass] Pop-up closed. 
+2022-11-03 21:38:45,649 INFO  [AbstractClass] The product has been added to the cart from the second seller. 
+2022-11-03 21:38:52,757 INFO  [AbstractClass] Pop-up closed. 
+2022-11-03 21:38:54,187 INFO  [AbstractClass] Clicked on the cart page. 
+2022-11-03 21:38:55,020 INFO  [AbstractClass] It has been verified that both products are the same product as the selected product. 
+2022-11-03 21:39:01,004 INFO  [AbstractClass] --------------------------------------------------------- 
+2022-11-03 21:39:01,004 INFO  [AbstractClass] Visited hepsiburada.com website. 
+2022-11-03 21:39:01,362 INFO  [AbstractClass] Cookies accepted. 
+2022-11-03 21:39:02,059 INFO  [AbstractClass] The product was searched. 
+2022-11-03 21:39:06,791 INFO  [AbstractClass] Switched to new tab. 
+2022-11-03 21:39:06,791 INFO  [AbstractClass] The first product was selected. 
+2022-11-03 21:39:13,954 INFO  [AbstractClass] The product has been added to the cart from the first seller. 
+2022-11-03 21:39:16,088 INFO  [AbstractClass] Pop-up closed. 
+2022-11-03 21:39:16,226 INFO  [AbstractClass] The product has been added to the cart from the second seller. 
+2022-11-03 21:39:23,321 INFO  [AbstractClass] Pop-up closed. 
+2022-11-03 21:39:24,540 INFO  [AbstractClass] Clicked on the cart page. 
+2022-11-03 21:39:25,039 INFO  [AbstractClass] It has been verified that both products are the same product as the selected product. 
